@@ -10,16 +10,16 @@ identifier="#6DD9D9",
 statement="#B67AF2",
 constant="#919FE6",
 
-LineNr="#343434",
-
+LineNr="#607e95",
+LineNrbg="#3b4247",
 Strings="#b48ead",
-LineNrAbove="#C8CDE6",
 Variables="#C8CDE6",
 Operator="#E6E6B1",
 
 
-LineNrBelow="#AAB4E6",
 Delimiter="#9CC5FF",
+
+CursorLineNrbg="#14222d",
 
 CursorLineNr="#B8BFE6",
 statusline="#676767",
